@@ -139,4 +139,8 @@
 
     <!-- Ambient display music ticker -->
     <bool name="config_canForceDozeNotifications">true</bool>
+
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">false</bool>
+	
 </resources>
