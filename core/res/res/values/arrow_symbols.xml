@@ -142,4 +142,7 @@
 
     <!-- Ambient display music ticker -->
     <java-symbol type="bool" name="config_canForceDozeNotifications" />
+     
+    <!-- In-display Fingerprint -->
+    <java-symbol type="bool" name="config_supportsInDisplayFingerprint" />
 </resources>
